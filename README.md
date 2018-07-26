@@ -2,12 +2,12 @@
 <html>
 <body>
   <div>
-  <h1>App ruby blog de famille - THP</h1>
+  <h1>App ruby DoctoLib - THP</h1>
     <h2>Groupe de Rennes Christophe Leray</h2>
       <h3>Ruby version: 2.5.1</h3>
    <h2>How to install and test?</h2>
       <h4>Download or clone the repository</h4>
-        <code>$ git clone https://github.com/christopheleray/thp_week4_thursday_doctolib</code>
+        <code>$ git clone https://github.com/christopheleray/thp_week4_thursday_doctolib.git</code>
       <h4>Run the command bundle install to install the necessary gems</h4>
         <code>$ bundle install</code>
       <h4>Update your database structure with the migration command.The database in not uploaded to github, so it is necessary tu run the differents migrations:</h4>
